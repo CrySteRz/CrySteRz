@@ -13,7 +13,7 @@ My name is Blidaru Ionut and I'm a software engineering student. I'm from Romani
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
 
 ## &#x270d; Cool Stuff i made for now :)
-- [Viby Discord Music Bot](To be linked Viby)
+- [Viby Discord Music Bot](https://github.com/CrySteRz/Viby)
 
 ## &#x1f4c8; GitHub Stats
 
