@@ -8,8 +8,8 @@ My name is Blidaru Ionut and I'm a software engineering student. I'm from Romani
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-NoSQL-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-NoSQL-informational?style=flat&logo=nosql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 ## &#x270d; Cool Stuff i made for now :)
