@@ -3,14 +3,14 @@
 My name is Blidaru Ionut and I'm a software engineering student. I'm from Romania, living in Timisoara and currently working on a lot of cool projects, including my own discord bot Viby.
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=vscode-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-NoSQL-informational?style=flat&logo=nosql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-NoSQL-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
 
 ## &#x270d; Cool Stuff i made for now :)
 - [Viby Discord Music Bot](To be linked Viby)
