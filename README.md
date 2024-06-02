@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px">
 
-My name is CrySteRz and I'm a software engineering student. I'm from Romania, living in Timisoara and currently working on a lot of cool projects, including my own discord bot Viby.
+My name is CrySteRz and I'm a software engineering student. I'm from Romania, living in Timisoara and currently working on a lot of cool projects.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual&logoColor=white&color=2bbc8a)
@@ -11,9 +11,6 @@ My name is CrySteRz and I'm a software engineering student. I'm from Romania, li
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-NoSQL-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
-
-## &#x270d; Cool Stuff i made for now :)
-- [Viby Discord Music Bot](https://github.com/CrySteRz/Viby)
 
 ## &#x1f4c8; GitHub Stats
 
