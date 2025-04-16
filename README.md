@@ -1,23 +1,39 @@
 # Hello, folks! <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px">
 
-My name is CrySteRz and I'm a software engineering student. I'm from Romania, living in Timisoara and currently working on a lot of cool projects.
+I'm **CrySteRz**, a DevOps Engineer with a passion for coding from Timișoara, Romania 🇷🇴.  
+Currently building cool stuff while balancing infrastructure and development workflows.
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-NoSQL-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
+---
 
-## &#x1f4c8; GitHub Stats
+## 🛠️ Tech Stack
 
-<a href="https://github.com/CrySteRz/CrySteRz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrySteRz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=7" />
+### **Languages & Frameworks**
+![](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+
+### **Databases**
+![](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+### **Tools & Platforms**
+![](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+---
+
+## 📈 GitHub Analytics
+
+<a href="https://github.com/CrySteRz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrySteRz&layout=compact&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8" />
 </a>
-<a href="https://github.com/CrySteRz/CrySteRz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CrySteRz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+
+<a href="https://github.com/CrySteRz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CrySteRz&show_icons=true&count_private=true&line_height=24&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My GitHub Stats" />
 </a>
+
+---
+
+✨ _Automating infrastructure, writing clean (hopefully) code, and drinking too much Monster_
