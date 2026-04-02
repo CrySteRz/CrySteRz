@@ -92,6 +92,6 @@ A scalable Lavalink alternative built in **Rust** with **Kafka**-based message p
 ---
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CrySteRz&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CrySteRz&show_icons=true&hide_border=true)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CrySteRz&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrySteRz&layout=compact&hide_border=true)
