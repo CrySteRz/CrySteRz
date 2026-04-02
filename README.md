@@ -90,9 +90,9 @@ A scalable Lavalink alternative built in **Rust** with **Kafka**-based message p
 | [`ravalink-bot-example`](https://github.com/CrySteRz/ravalink-bot-example) | Example Discord bot implementation |
 
 ---
+## GitHub Stats
 
-  ## GitHub Stats                                                                                                                                      
-  <a href="https://github.com/CrySteRz">                                                                                                               
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CrySteRz&theme=dark&background=1d1f21&ring=2bbc8a&fire=2bbc8a&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=c9cacc&sideNums=c9cacc&date
-  s=c9cacc" />                                          
-  </a> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CrySteRz&show_icons=true&count_private=true&line_height=24&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrySteRz&layout=compact&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8" />
+</p>
