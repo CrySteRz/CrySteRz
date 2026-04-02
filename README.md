@@ -88,10 +88,3 @@ A scalable Lavalink alternative built in **Rust** with **Kafka**-based message p
 | [`ravalink-lib`](https://github.com/CrySteRz/ravalink-lib) | Rust client library for bot integration |
 | [`ravalink-interconnect`](https://github.com/CrySteRz/ravalink-interconnect) | Kafka message schema specification |
 | [`ravalink-bot-example`](https://github.com/CrySteRz/ravalink-bot-example) | Example Discord bot implementation |
-
----
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CrySteRz&show_icons=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrySteRz&layout=compact&hide_border=true)
