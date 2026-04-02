@@ -91,12 +91,8 @@ A scalable Lavalink alternative built in **Rust** with **Kafka**-based message p
 
 ---
 
-## GitHub Stats
-
-<a href="https://github.com/CrySteRz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrySteRz&layout=compact&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8" />
-</a>
-
-<a href="https://github.com/CrySteRz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CrySteRz&show_icons=true&count_private=true&line_height=24&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" />
-</a>
+  ## GitHub Stats                                                                                                                                      
+  <a href="https://github.com/CrySteRz">                                                                                                               
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CrySteRz&theme=dark&background=1d1f21&ring=2bbc8a&fire=2bbc8a&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=c9cacc&sideNums=c9cacc&date
+  s=c9cacc" />                                          
+  </a> 
